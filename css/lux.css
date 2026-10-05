@@ -1470,13 +1470,6 @@ html.js .order-page .ocat.reveal {
 .cake-simple-select-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 @media (max-width: 760px) { .cake-simple-select-grid { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 560px) { .cake-simple-select-grid { grid-template-columns: 1fr; } }
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-=======
-<<<<<<< HEAD
->>>>>>> 56839c03f68cbb81128e72180c3f364b8c97d799
->>>>>>> Stashed changes
 
 /* =====================================================================
    Homepage relaunch — editorial bakery + practical learning
@@ -1731,15 +1724,7 @@ html.js .order-page .ocat.reveal {
    Homepage v5 — sleek modern polish over the dark glass direction
    ===================================================================== */
 .home-v2 {
-<<<<<<< Updated upstream
-  --v2-ui: 'Inter', 'Helvetica Neue', Arial, sans-serif;
-=======
-<<<<<<< HEAD
   --v2-ui: var(--font-body);
-=======
-  --v2-ui: 'Inter', 'Helvetica Neue', Arial, sans-serif;
->>>>>>> 56839c03f68cbb81128e72180c3f364b8c97d799
->>>>>>> Stashed changes
   font-family: var(--v2-ui);
   letter-spacing: .005em;
 }
@@ -1883,15 +1868,7 @@ html.js .home-v2 .v2-hero-visual.visible { animation: v2HeroVisualIn .95s cubic-
   --site-line: rgba(245,230,214,.16);
   --site-glass: rgba(58,31,15,.46);
   --site-glass-strong: rgba(139,94,60,.22);
-<<<<<<< Updated upstream
-  --site-ui: 'Inter', 'Helvetica Neue', Arial, sans-serif;
-=======
-<<<<<<< HEAD
   --site-ui: var(--font-body);
-=======
-  --site-ui: 'Inter', 'Helvetica Neue', Arial, sans-serif;
->>>>>>> 56839c03f68cbb81128e72180c3f364b8c97d799
->>>>>>> Stashed changes
   position: relative;
   isolation: isolate;
   min-height: 100vh;
@@ -1939,11 +1916,6 @@ html.js .home-v2 .v2-hero-visual.visible { animation: v2HeroVisualIn .95s cubic-
 .glass-page .subnav { border: 1px solid rgba(212,164,55,.27); background: rgba(58,31,15,.48); box-shadow: inset 0 1px 0 rgba(255,255,255,.06); backdrop-filter: blur(18px); -webkit-backdrop-filter: blur(18px); }.glass-page .subnav a { color: rgba(245,230,214,.78); }.glass-page .subnav a:hover, .glass-page .subnav a.active { color: var(--site-gold); }.glass-page .subnav .sn-book { border-color: var(--site-gold); background: rgba(212,164,55,.14); color: var(--site-cream); }
 .home-v2 .site-header .main-nav, .glass-page .site-header .main-nav { min-width: 0; }.home-v2 .site-header .nav5-inner, .glass-page .site-header .nav5-inner { gap: 12px; }
 @media (max-width: 760px) { .home-v2 .nav5 .header-wa, .glass-page .nav5 .header-wa { padding: 0 11px; }.home-v2 .v2-lede, .home-v2 .v2-section-intro > p:last-child, .home-v2 .v2-heading-aside p, .home-v2 .v2-class-head > p, .home-v2 .v2-custom-copy > p:not(.v2-overline), .home-v2 .v2-review-head > p:last-child { color: rgba(245,230,214,.9); } }
-<<<<<<< Updated upstream
-=======
->>>>>>> 51f0f046e2bf648c76ee5f706b0f80538b955777
-=======
-<<<<<<< HEAD
 
 /* =====================================================================
    Page hero refinement, custom-cake continuity, and contact page
@@ -2223,8 +2195,3 @@ html.js .home-v2 .v2-hero-visual.visible { animation: v2HeroVisualIn .95s cubic-
   .home-v2 .v3-image-shell { width: 92%; }
   .home-v2 .v3-hero-footer { gap: 9px; }
 }
-=======
-=======
->>>>>>> 51f0f046e2bf648c76ee5f706b0f80538b955777
->>>>>>> 56839c03f68cbb81128e72180c3f364b8c97d799
->>>>>>> Stashed changes
